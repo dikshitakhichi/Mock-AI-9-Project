@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Non-working day</name>
+   <tag></tag>
+   <elementGuidId>7029a748-b679-4f8a-92bf-246999bfb638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-button-label-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='mount-vue-app']/div/div[1]/div/div/div/div[2]/form/table/tbody/tr[1]/td[2]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Monday Working Day 09:00  17:00  hh:mm  hh:mm  8:00&quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ecc0ccd9-257c-47d3-8b66-5c9cb3b0037e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button-label-wrapper</value>
+      <webElementGuid>caec32b1-9a9f-4921-9bba-c51ebdd883e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working Day</value>
+      <webElementGuid>135b8c83-f0b9-4acb-a0f0-8f827c68e2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/div[@class=&quot;vue-container&quot;]/div[@class=&quot;oxd-overlay oxd-overlay--flex oxd-overlay--flex-centered&quot;]/div[@class=&quot;oxd-dialog-container-default&quot;]/div[@class=&quot;oxd-dialog-container-default--inner&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--white oxd-dialog-sheet oxd-dialog-sheet--shadow fixed-work-schedule-form&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;oxd-form fixed-work-schedule-form-inner&quot;]/table[@class=&quot;ws-definition-table&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;oxd-button-pop-over&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--main ws-date-type-pop-over-button --working-day&quot;]/div[@class=&quot;oxd-button-label-wrapper&quot;]</value>
+      <webElementGuid>41772153-7402-4751-b4c1-7326bfa34ef5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[2]/div/button/div</value>
+      <webElementGuid>4e8303d4-49b1-4bb8-9ae7-11eaaa78b6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/following::div[2]</value>
+      <webElementGuid>c1bc31c7-bf21-4de9-abd6-382929e4d0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration (hh:mm)'])[1]/following::div[2]</value>
+      <webElementGuid>0168f5ce-bb92-4dd2-9fc8-79c0615625bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hh:mm'])[1]/preceding::div[5]</value>
+      <webElementGuid>b2389a86-fe35-48a0-9df2-ca3b473aa667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hh:mm'])[2]/preceding::div[7]</value>
+      <webElementGuid>c4cfe871-5711-4fcc-b2f4-25fb254845e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Working Day']/parent::*</value>
+      <webElementGuid>a964f270-b2ac-4836-a5bb-9a11f1fad958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>c04d718f-3f60-43fa-9bc8-c9e3cab22802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Working Day' or . = 'Working Day')]</value>
+      <webElementGuid>2c06f72a-2da3-43cb-8777-7486606f395f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

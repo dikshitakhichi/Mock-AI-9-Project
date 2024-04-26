@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC4: 5.2.1.2_JT_005: Verify when user edits existing info then clicks on the Cancel button the system does not save the record and the user is redirected back to the Job Title Page with unchanged details.</description>
+   <name>MAP9-64_TC4 - Unchanged details in the existing job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5cc40747-c0be-41d7-8a87-b76ace946897</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC2: 5.2.1.4_View_JT_003: Verify in Job Title List Page Click on sort icon on the job Titles should display the record in ascending and descending alphabetical order</description>
+   <name>MAP9-119_TC2 - Sort job title list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81df0f71-ff33-45a2-9733-1fc78a131217</testCaseGuid>
+</TestCaseEntity>

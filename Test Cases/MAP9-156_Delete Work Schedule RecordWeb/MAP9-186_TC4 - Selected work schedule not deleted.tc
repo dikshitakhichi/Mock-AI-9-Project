@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC4: Select a multiple records Click on No, Cancel should NOT delete the selected work schedules</description>
+   <name>MAP9-186_TC4 - Selected work schedule not deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93ec7d4f-acf5-419a-a879-94bb40a92e41</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>df48c736-72c5-47a8-869d-f1ee3230556e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>df48c736-72c5-47a8-869d-f1ee3230556e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>a6aca648-e8a4-4dcb-bd04-5e613d5b1d2b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>df48c736-72c5-47a8-869d-f1ee3230556e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>0f3ba3ec-fc6b-4c20-b223-337c9e150a16</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6aca648-e8a4-4dcb-bd04-5e613d5b1d2b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f3ba3ec-fc6b-4c20-b223-337c9e150a16</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

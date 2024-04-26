@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite - Delete work schedule</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6ae865f9-0423-4f89-8bcf-289812bc39e5</testSuiteGuid>
+   <testCaseLink>
+      <guid>088093d3-98b5-4135-91d6-68a0fc5acff9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MAP9-156_Delete Work Schedule RecordWeb/MAP9-183_TC1 - Delete a record</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f60ebe72-1009-410d-a1ae-0e2a075c10af</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d3a2acd6-19f5-492e-9047-111f42350f41</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e596a4c3-57e5-4cee-be2b-5e1e42c8fe41</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MAP9-156_Delete Work Schedule RecordWeb/MAP9-184_TC2 - Work Schedule not deleted</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f936e0c2-ac7d-4527-b6eb-a97867807524</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8fe371dc-1e90-40cf-8f40-9a74c4dd0ab2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>04987084-061c-40b7-8533-3707a7f58066</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MAP9-156_Delete Work Schedule RecordWeb/MAP9-185_TC3 - Delete multiple work schedule</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6b25d56d-814c-48a9-8020-fb95ae0c35ad</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>25e8a2f7-5f21-4635-825f-ce09bf4ed3bc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5c3a9411-cd3b-47e5-ae61-ef1566949004</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MAP9-156_Delete Work Schedule RecordWeb/MAP9-186_TC4 - Selected work schedule not deleted</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a6aca648-e8a4-4dcb-bd04-5e613d5b1d2b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0f3ba3ec-fc6b-4c20-b223-337c9e150a16</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

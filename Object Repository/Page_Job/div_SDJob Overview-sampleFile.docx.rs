@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SDJob Overview-sampleFile.docx</name>
+   <tag></tag>
+   <elementGuidId>e0c50f8a-5eab-4c54-be0d-588ad1c6a18e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-download-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='currentJobSpecification']/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ohrm_download_doc_oxdohrm_download_icon_oxdSDJob Overview-sampleFile.docx&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1af1ae1c-c7ca-44e4-bfbd-8c0d5db7de91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-download-link</value>
+      <webElementGuid>8e98cd9f-c216-40a9-9222-5f49a5135193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SDJob Overview-sampleFile.docx</value>
+      <webElementGuid>4ecafc13-2d48-431b-9281-3e5f4e8f599f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;currentJobSpecification&quot;)/div[@class=&quot;oxd-download-file-replacement&quot;]/div[@class=&quot;oxd-download-link&quot;]</value>
+      <webElementGuid>7846a5f1-1956-4782-a391-2b3d7fb6e367</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='currentJobSpecification']/div[3]/div</value>
+      <webElementGuid>9a928369-a957-4141-bbe4-af7e311963a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_download_icon_oxd'])[1]/following::div[2]</value>
+      <webElementGuid>a8fe90a0-6313-413f-ad81-ad9e4681e3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_download_doc_oxd'])[1]/following::div[3]</value>
+      <webElementGuid>8f088e68-a50b-43a9-96a9-299b6a83170c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep Current'])[1]/preceding::div[1]</value>
+      <webElementGuid>9e7f9bf2-0765-4905-9f4e-a62e6adfa113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Current'])[1]/preceding::div[2]</value>
+      <webElementGuid>91a1720c-1332-46a6-90e4-281a6cbd8f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SDJob Overview-sampleFile.docx']/parent::*</value>
+      <webElementGuid>84b65d5e-3f2f-4b8e-a05c-b7b6cfabba03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[3]/div</value>
+      <webElementGuid>1fc1d4a2-fa54-443a-a412-4e84c2e78260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SDJob Overview-sampleFile.docx' or . = 'SDJob Overview-sampleFile.docx')]</value>
+      <webElementGuid>81589911-492e-409f-b9e4-79e4dd7044f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_fill2WS</name>
+   <tag></tag>
+   <elementGuidId>e379b296-c8cd-465c-98f0-ad4f470b76d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/div/div[2]/div/div/div/div/div[3]/div/div[2]/div[8]/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Germany 6 Fixed Schedule Delete Edit&quot;i] >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>31f9a872-a646-4573-8569-83223142c118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>{fill:currentColor;}</value>
+      <webElementGuid>e569431c-b6f1-4e79-8ec7-818202822cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/div[@class=&quot;vue-container&quot;]/div[@class=&quot;work-schedule-list-container&quot;]/div[@class=&quot;tab-content&quot;]/div[1]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white oxd-list-card&quot;]/div[@class=&quot;oxd-list-content&quot;]/div[@class=&quot;oxd-list-content-body&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]/div[@class=&quot;oxd-checkbox-wrapper&quot;]/label[1]</value>
+      <webElementGuid>6b466d67-0dc8-411f-b5ca-d947083a603b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/div/div[2]/div/div/div/div/div[3]/div/div[2]/div[8]/div/div/div/label</value>
+      <webElementGuid>be951668-9c00-48c6-91f7-ffe267993463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Germany 5'])[1]/following::label[1]</value>
+      <webElementGuid>4c2e0ba1-a794-44ae-ad4f-be8b1c97a87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Germany 6'])[1]/preceding::label[1]</value>
+      <webElementGuid>55374f9d-cba2-446d-a005-a8ce6af53baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/label</value>
+      <webElementGuid>c34daa58-25e1-4387-a4e5-dc271a06c1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '{fill:currentColor;}' or . = '{fill:currentColor;}')]</value>
+      <webElementGuid>b4926326-8549-4a8f-bcb3-9e6be8232d6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

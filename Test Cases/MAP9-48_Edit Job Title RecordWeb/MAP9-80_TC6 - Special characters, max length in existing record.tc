@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC6: 5.2.1.2_JT_007: Verify if all info gets saved when the user adds symbols/special characters/max length info in each field in edit job title page</description>
+   <name>MAP9-80_TC6 - Special characters, max length in existing record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39e9445e-9643-4288-bd88-0b678bf53a5f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: 5.2.1.2_JT_002: Verify when user clicks on Edit button in Manage Job Titles Page they should get to Edit Job Title view</description>
+   <name>MAP9-59_TC1 - Edit Job Title View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9dab7897-dbec-440c-b0a8-7b74b301d16c</testCaseGuid>
+</TestCaseEntity>

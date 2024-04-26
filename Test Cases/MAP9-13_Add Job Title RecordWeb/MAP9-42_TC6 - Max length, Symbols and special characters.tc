@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC7: 5.2.1.1_Add_JT_008: Verify if all info gets saved when the user adds symbols/special characters/max length info in each field</description>
+   <name>MAP9-42_TC6 - Max length, Symbols and special characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>710cb72e-9799-47ce-9dfc-dfc8b332c521</testCaseGuid>
+</TestCaseEntity>

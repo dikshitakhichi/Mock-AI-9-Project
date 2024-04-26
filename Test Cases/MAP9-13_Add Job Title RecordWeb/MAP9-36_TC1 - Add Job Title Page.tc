@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: 5.2.1.1_Add_JT_002: Verify when user clicks on &quot;+&quot;  on Manage Job Title Page &quot;Add Job Title&quot; is displayed</description>
+   <name>MAP9-36_TC1 - Add Job Title Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a0616a2-6c3a-48a8-adb3-24e0d46015e9</testCaseGuid>
+</TestCaseEntity>

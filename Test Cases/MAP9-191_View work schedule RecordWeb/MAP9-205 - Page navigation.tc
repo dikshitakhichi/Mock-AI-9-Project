@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC2: Work schedules should display the Page Navigations for the user on the work schedule list page</description>
+   <name>MAP9-205 - Page navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d09bb31-330f-4217-958c-f9df13916dae</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d784bf92-8f7c-4187-bd71-3002c5c3a146</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d784bf92-8f7c-4187-bd71-3002c5c3a146</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>1c47d07a-cf8d-45e0-9d27-e24259f46842</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d784bf92-8f7c-4187-bd71-3002c5c3a146</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>8688b0f2-38b0-4890-9f1b-177e80d0be6a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1c47d07a-cf8d-45e0-9d27-e24259f46842</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8688b0f2-38b0-4890-9f1b-177e80d0be6a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

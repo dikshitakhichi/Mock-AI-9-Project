@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Job TitleJob Title</name>
+   <tag></tag>
+   <elementGuidId>e2f8531f-45bf-4595-b806-c2698db825dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.col-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-holder']/div/div/div/div[2]/form/oxd-decorator/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Job Title*Job Title*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0bd97ed6-98c9-4d61-9c1b-36ac35caa46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group col-6</value>
+      <webElementGuid>c17f2762-1cb0-45b6-bfec-d490eb5b85f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>item in form.items</value>
+      <webElementGuid>199779f2-0edf-4f7d-a87e-19ff56c15ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>59f649bf-4015-487f-8b2d-45ed8ed55fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job Title*Job Title*  </value>
+      <webElementGuid>881b2bec-c96f-4c16-885f-844be7db8a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-holder&quot;)/div[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog modal-md&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;generic-oxd-modal-form needs-validation ng-pristine ng-valid ng-valid-duplication-job-title ng-valid-schema-form ng-valid-file-size ng-valid-file-type&quot;]/oxd-decorator[1]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-group col-6&quot;]</value>
+      <webElementGuid>feb454f9-c0e4-418f-807e-3c3084983af1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-holder']/div/div/div/div[2]/form/oxd-decorator/div/div</value>
+      <webElementGuid>058b0b13-2009-486a-aada-8e4ac4bdd784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[3]</value>
+      <webElementGuid>4ca6b36c-2fbe-4174-99ed-bdbf545870c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Job Title'])[1]/following::div[3]</value>
+      <webElementGuid>23eea7b4-00ec-4a61-bb59-6bf6dc22462d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//oxd-decorator/div/div</value>
+      <webElementGuid>5bb8a012-316b-4ca0-bfc5-eabb1a795645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@form = 'item' and (text() = 'Job Title*Job Title*  ' or . = 'Job Title*Job Title*  ')]</value>
+      <webElementGuid>2cb74dd1-8f04-4a70-b4b7-0b144b360c82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

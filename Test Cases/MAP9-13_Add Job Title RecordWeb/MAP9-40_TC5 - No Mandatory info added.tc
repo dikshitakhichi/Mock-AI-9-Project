@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC5: 5.2.1.1_Add_JT_006: Verify user gets a mandatory field error message when they do not enter any data on &quot;Add job title&quot; page and click on save</description>
+   <name>MAP9-40_TC5 - No Mandatory info added</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>179c19c7-8773-4f3a-8f17-cf7ada2f3e0a</testCaseGuid>
+</TestCaseEntity>

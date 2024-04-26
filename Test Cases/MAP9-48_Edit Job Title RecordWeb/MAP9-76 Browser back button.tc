@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC6: 5.2.1.2_JT_007: Verify when user navigates back to the list of job titles without saving changes in edit job title they are prompted with a confirmation message and selecting &quot;Yes&quot; navigates them back without saving changes</description>
+   <name>MAP9-76 Browser back button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7a3cda1-2810-4887-9cb3-8cef34fbad8d</testCaseGuid>
+</TestCaseEntity>

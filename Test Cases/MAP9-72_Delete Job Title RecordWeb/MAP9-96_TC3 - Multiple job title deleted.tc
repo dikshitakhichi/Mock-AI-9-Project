@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify when a user selects Multiple Job Title and clicks on Delete selected button with a &quot;Yes&quot; in confirmation prompt the job title is deleted and removed from the Job Title List Page</description>
+   <name>MAP9-96_TC3 - Multiple job title deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47ef727a-6d8c-432b-bf23-951162a0d1e6</testCaseGuid>
+</TestCaseEntity>

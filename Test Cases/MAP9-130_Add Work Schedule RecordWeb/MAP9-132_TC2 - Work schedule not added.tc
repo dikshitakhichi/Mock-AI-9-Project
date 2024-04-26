@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC2: 5.2.5.1_Add_WS_003 - Verify user adds work schedule with valid details and clicks Cancel should cancel without saving any detail</description>
+   <name>MAP9-132_TC2 - Work schedule not added</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9ecacaf-dd07-4536-a886-52be073ba566</testCaseGuid>
+</TestCaseEntity>

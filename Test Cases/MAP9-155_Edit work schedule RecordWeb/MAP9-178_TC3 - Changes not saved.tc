@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC3: Verify user edits an existing work schedule and clicks on cancel the record stays the same no changes are updated</description>
+   <name>MAP9-178_TC3 - Changes not saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a3b8b46-ac29-44bc-b8ef-0e644ff8dc3e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ea8b6515-b948-467d-aee9-a2b7f8d5290f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ea8b6515-b948-467d-aee9-a2b7f8d5290f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>43c456b4-d660-45e3-98bf-7abed4253a4c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ea8b6515-b948-467d-aee9-a2b7f8d5290f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>50239a9f-631b-4a7a-a200-976daf671066</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43c456b4-d660-45e3-98bf-7abed4253a4c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50239a9f-631b-4a7a-a200-976daf671066</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

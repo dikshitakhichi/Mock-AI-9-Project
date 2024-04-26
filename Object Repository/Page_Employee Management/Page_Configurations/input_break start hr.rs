@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_break start hr</name>
+   <tag></tag>
+   <elementGuidId>c7a6abc4-a57e-4cba-99ec-b8581da13f9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.oxd-input.oxd-input--focus.oxd-time-hour-input-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[5]/div/div[2]/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Monday Working Day 09:00  17:00  hh:mm  hh:mm  8:00&quot;i] >> internal:role=textbox >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>82d72513-1926-4b14-b9d6-2f24dad3c85a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-input oxd-input--focus oxd-time-hour-input-text</value>
+      <webElementGuid>d373b2e1-cb7e-4f7b-80e6-59ae8302f5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>f932d938-877b-4cc6-a7ee-8c4b4a5e5450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/div[@class=&quot;vue-container&quot;]/div[@class=&quot;oxd-overlay oxd-overlay--flex oxd-overlay--flex-centered&quot;]/div[@class=&quot;oxd-dialog-container-default&quot;]/div[@class=&quot;oxd-dialog-container-default--inner&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--white oxd-dialog-sheet oxd-dialog-sheet--shadow fixed-work-schedule-form&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;oxd-form fixed-work-schedule-form-inner&quot;]/table[@class=&quot;ws-definition-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;cell-data&quot;]/div[@class=&quot;ws-time-input-outer&quot;]/div[@class=&quot;oxd-time-picker&quot;]/div[@class=&quot;oxd-standard-time-picker&quot;]/div[@class=&quot;oxd-time-hour-input&quot;]/div[@class=&quot;input-outer-wrapper&quot;]/input[@class=&quot;oxd-input oxd-input--focus oxd-time-hour-input-text&quot;]</value>
+      <webElementGuid>c53d6cf2-f80e-4a94-9feb-073c9dde02da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[5]/div/div[2]/div[2]/div/div/input</value>
+      <webElementGuid>f0af0dd8-d44e-4a34-bd1b-e1160cbefc37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/input</value>
+      <webElementGuid>6ccb2bac-7a1a-455a-bda4-b530faca5b20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

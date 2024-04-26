@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_break start</name>
+   <tag></tag>
+   <elementGuidId>927fc95a-53f2-4ad7-9e1e-49d64d749f5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[5]/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td:nth-child(5) > .ws-time-input-outer > .ws-time-input-inner > .oxd-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e85fb9b0-b3ee-4e21-b2e0-dc79c3d1dc81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon oxd-icon--medium bi-clock justify-center ws-time-input-inner-icon-wrapper</value>
+      <webElementGuid>57934638-f54f-476c-93b8-b267a0e674fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ae9cf807-ce82-43c1-862f-90a7ca4aaa0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/div[@class=&quot;vue-container&quot;]/div[@class=&quot;oxd-overlay oxd-overlay--flex oxd-overlay--flex-centered&quot;]/div[@class=&quot;oxd-dialog-container-default&quot;]/div[@class=&quot;oxd-dialog-container-default--inner&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--white oxd-dialog-sheet oxd-dialog-sheet--shadow fixed-work-schedule-form&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;oxd-form fixed-work-schedule-form-inner&quot;]/table[@class=&quot;ws-definition-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;cell-data&quot;]/div[@class=&quot;ws-time-input-outer&quot;]/div[@class=&quot;ws-time-input-inner&quot;]/i[@class=&quot;oxd-icon oxd-icon--medium bi-clock justify-center ws-time-input-inner-icon-wrapper&quot;]</value>
+      <webElementGuid>46794821-4056-4966-a416-9a8c6de8e03f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[5]/div/div/i</value>
+      <webElementGuid>aa7543ec-be60-44ec-ab00-c4d89e9f7cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/div/i</value>
+      <webElementGuid>63637924-736a-430b-8be8-9b38a9d04ac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

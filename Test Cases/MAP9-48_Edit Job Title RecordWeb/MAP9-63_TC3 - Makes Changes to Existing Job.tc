@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC3: 5.2.1.2_JT_004: Verify when user makes changes to existing job title and clicks on Save button the changes are saved and the admin receives a confirmation message</description>
+   <name>MAP9-63_TC3 - Makes Changes to Existing Job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d076c43f-13b0-4be5-97b1-8fe88669ae57</testCaseGuid>
+</TestCaseEntity>

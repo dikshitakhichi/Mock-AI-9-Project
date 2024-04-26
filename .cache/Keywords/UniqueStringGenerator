@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "DCD2B6BBDA4452E636D6832B6A25199E",
+  "keywordClasses": [
+    {
+      "name": "UniqueStringGenerator",
+      "keywordMethods": [
+        {
+          "name": "generateUniqueString",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

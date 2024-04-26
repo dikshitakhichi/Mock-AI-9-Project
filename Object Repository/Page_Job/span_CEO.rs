@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CEO</name>
+   <tag></tag>
+   <elementGuidId>c07e8a95-547b-40da-8e7e-408eb5b187de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jobTitlesDiv']/crud-panel/div/div/list/table/tbody/tr[4]/td[2]/ng-include/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.grey.lighten-5 > td[name=&quot;listField.name&quot;] > ng-include > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;CEO&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>644667ab-8154-49c3-84be-96d522502ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CEO</value>
+      <webElementGuid>a311befb-b89e-48a2-b2ff-de7c2c85d110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jobTitlesDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/tbody[1]/tr[@class=&quot;grey lighten-5&quot;]/td[@class=&quot;cursor-pointer&quot;]/ng-include[1]/span[1]</value>
+      <webElementGuid>f3a2a723-44be-4896-9ca2-667258f744be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobTitlesDiv']/crud-panel/div/div/list/table/tbody/tr[4]/td[2]/ng-include/span</value>
+      <webElementGuid>1737ab4a-8c54-446c-bd94-b9481c2aa869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_edit'])[3]/following::span[1]</value>
+      <webElementGuid>3adb029d-e627-4d90-b722-5d7f6c7e3b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Associate Support Engineer'])[1]/following::span[2]</value>
+      <webElementGuid>760c7140-dce4-4a08-aaaa-18252a31108d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_edit'])[4]/preceding::span[2]</value>
+      <webElementGuid>6cf621f6-9fc6-4c65-8325-7303af6f8e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CFO'])[1]/preceding::span[2]</value>
+      <webElementGuid>794d220b-81bf-406d-9979-4cf00f9a9250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CEO']/parent::*</value>
+      <webElementGuid>d142abd3-b8cc-4e34-95b0-966501f6b63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/ng-include/span</value>
+      <webElementGuid>d8b439bc-46ed-47e1-bd4d-27149bb0b332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CEO' or . = 'CEO')]</value>
+      <webElementGuid>50cb26a9-446c-427f-a34c-ca9b76447dd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

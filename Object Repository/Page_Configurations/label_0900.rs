@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_0900</name>
+   <tag></tag>
+   <elementGuidId>42fc2793-08f7-4917-9a08-d72f8b0dde44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.oxd-label.ws-time-input-inner-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[3]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;09:00&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3841c831-f7ef-457a-aa9d-3439854ac23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-label ws-time-input-inner-label</value>
+      <webElementGuid>182df853-4b22-442b-9fb5-912641f79d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09:00</value>
+      <webElementGuid>ec567a08-9ed3-47b8-8e90-5b62513cff5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/div[@class=&quot;vue-container&quot;]/div[@class=&quot;oxd-overlay oxd-overlay--flex oxd-overlay--flex-centered&quot;]/div[@class=&quot;oxd-dialog-container-default&quot;]/div[@class=&quot;oxd-dialog-container-default--inner&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--white oxd-dialog-sheet oxd-dialog-sheet--shadow fixed-work-schedule-form&quot;]/div[@class=&quot;modal-body&quot;]/form[@class=&quot;oxd-form fixed-work-schedule-form-inner&quot;]/table[@class=&quot;ws-definition-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;cell-data&quot;]/div[@class=&quot;ws-time-input-outer&quot;]/div[@class=&quot;ws-time-input-inner&quot;]/label[@class=&quot;oxd-label ws-time-input-inner-label&quot;]</value>
+      <webElementGuid>27a56657-6672-4a93-a3be-a1763753f0e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/div/div/div/div/div/div[2]/form/table/tbody/tr/td[3]/div/div/label</value>
+      <webElementGuid>aa3fa6a0-7ecd-4a98-a29a-a8c9b501f02a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/following::label[1]</value>
+      <webElementGuid>de1fe2a0-87d5-4b98-8f41-0ac02a3eeec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hh:mm'])[1]/preceding::label[2]</value>
+      <webElementGuid>4c7a9f31-c751-470b-b3a4-e8917544f759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hh:mm'])[2]/preceding::label[3]</value>
+      <webElementGuid>11c739fb-4a2b-4d27-9443-09450300f0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='09:00']/parent::*</value>
+      <webElementGuid>66a89e55-84a0-4506-8f1c-27fee2eeefe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div/label</value>
+      <webElementGuid>14ab2916-ea1a-49ad-98eb-d8c4ae0970cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '09:00' or . = '09:00')]</value>
+      <webElementGuid>dc71cb49-d6ec-437f-a739-be385081773e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

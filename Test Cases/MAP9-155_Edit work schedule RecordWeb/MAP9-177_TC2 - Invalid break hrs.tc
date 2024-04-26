@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC2: Verify user adds invalid hrs in break start and break end time which should throw an error message to the user</description>
+   <name>MAP9-177_TC2 - Invalid break hrs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af419259-d7eb-4c80-999b-45035a99c829</testCaseGuid>
+</TestCaseEntity>

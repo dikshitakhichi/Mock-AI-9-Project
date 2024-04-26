@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: 5.2.5.1_Add_WS_002 - Verify user adds Work schedule with valid details and Save Should Save Successfully</description>
+   <name>MAP9-131_TC1 - Add new work schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>125919d9-141e-4c66-b3c9-23c98e988546</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c48e0ef2-cbbb-403f-b3e5-180c390d53e2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c48e0ef2-cbbb-403f-b3e5-180c390d53e2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>ec045b7f-e740-4921-b496-0c9402b76989</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c48e0ef2-cbbb-403f-b3e5-180c390d53e2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>0d6f429c-2c68-4160-a8dc-6e5275bfce45</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ec045b7f-e740-4921-b496-0c9402b76989</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d6f429c-2c68-4160-a8dc-6e5275bfce45</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

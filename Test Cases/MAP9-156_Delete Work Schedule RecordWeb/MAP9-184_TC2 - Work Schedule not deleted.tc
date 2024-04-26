@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC2: Select a record Click on No, Cancel should not delete the work schedule</description>
+   <name>MAP9-184_TC2 - Work Schedule not deleted</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04c66905-441b-4b8f-8076-170b993cabfe</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9528cca8-9b83-4da0-be54-ca84aadda133</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9528cca8-9b83-4da0-be54-ca84aadda133</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>f936e0c2-ac7d-4527-b6eb-a97867807524</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9528cca8-9b83-4da0-be54-ca84aadda133</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>8fe371dc-1e90-40cf-8f40-9a74c4dd0ab2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f936e0c2-ac7d-4527-b6eb-a97867807524</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8fe371dc-1e90-40cf-8f40-9a74c4dd0ab2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

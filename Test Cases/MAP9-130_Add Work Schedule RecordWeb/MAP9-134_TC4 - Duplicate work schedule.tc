@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC4: 5.2.5.1_Add_WS_005 - Verify when user adds duplicate work schedules should display error message</description>
+   <name>MAP9-134_TC4 - Duplicate work schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27a42486-d31f-4bde-93c6-d41142b28667</testCaseGuid>
+</TestCaseEntity>

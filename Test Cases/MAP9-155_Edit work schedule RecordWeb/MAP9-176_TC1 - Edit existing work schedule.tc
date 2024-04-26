@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: Verify that user edits the info in an existing work schedule and the changes are saved successfully</description>
+   <name>MAP9-176_TC1 - Edit existing work schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70027cfe-b535-4155-972e-b211f52271d9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>43a0984e-2bc4-4d6c-9584-0c7af4dd1331</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>43a0984e-2bc4-4d6c-9584-0c7af4dd1331</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>cae0e1f7-a134-4e9f-9163-8e976215bf74</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>43a0984e-2bc4-4d6c-9584-0c7af4dd1331</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>438eea1c-e8b5-4f63-b5cd-dd871f5a7fc5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cae0e1f7-a134-4e9f-9163-8e976215bf74</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>438eea1c-e8b5-4f63-b5cd-dd871f5a7fc5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

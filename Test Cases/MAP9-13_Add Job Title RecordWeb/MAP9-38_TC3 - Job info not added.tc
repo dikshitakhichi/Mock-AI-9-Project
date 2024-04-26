@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC3: 5.2.1.1_Add_JT_004: Verify the record is not saved on Job title search page when user adds all info in &quot;Add Job Title&quot; and clicks on Cancel</description>
+   <name>MAP9-38_TC3 - Job info not added</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b088e26b-3a51-4404-a0f6-509db6f7b6c9</testCaseGuid>
+</TestCaseEntity>

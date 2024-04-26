@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_responsible for developing requirements</name>
+   <tag></tag>
+   <elementGuidId>8030f7df-0bb1-40ae-b465-481700ec59b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@name='listField.name'])[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;responsible for developing requirements&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f7a8cb8f-900b-4fe1-9bfd-b2086e6fff9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>((obj[list.clickableCondition] &amp;&amp; list.clickableCondition)||!list.clickableCondition) &amp;&amp; (listField.hideField==true?false:true)</value>
+      <webElementGuid>e8806a0f-25ee-4ce5-9d24-2bb2c42a126a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>listField in listData.listFields</value>
+      <webElementGuid>f1ffea66-5664-418d-9727-8f230a8dcf03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-style</name>
+      <type>Main</type>
+      <value>getStyle(obj, listField.style)</value>
+      <webElementGuid>fc2c2fdc-0435-40ba-b121-380b207e8113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{truncate: listField.truncate, tooltipped: listField.truncate, 'cursor-pointer': listField.clickAction}</value>
+      <webElementGuid>c7090438-0978-49d3-982f-792f223bffc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-attr-data-tooltip</name>
+      <type>Main</type>
+      <value>{{listField.truncate ? getFieldValue(obj, listField.getter, listField.formatter, listField.filters) : undefined}}</value>
+      <webElementGuid>5164c221-f433-4723-8e4f-f88f595898d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-attr-data-position</name>
+      <type>Main</type>
+      <value>{{listField.truncate ? 'bottom' : undefined}}</value>
+      <webElementGuid>65d33188-b705-417c-a3b2-724808d75071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>list.runAction(listField.clickAction, obj, listField)</value>
+      <webElementGuid>ebe2764e-d28f-471b-b95a-84885969eff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>getFieldValue(obj, listField.getter, listField.formatter, listField.filters)</value>
+      <webElementGuid>132318b5-322b-40da-a465-326bdba6f3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowid</name>
+      <type>Main</type>
+      <value>obj.id</value>
+      <webElementGuid>a42b59e8-b571-4c6f-8d83-e6c72a362421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>listField.name</value>
+      <webElementGuid>b2bdb2f8-35fa-4bdf-8369-10da0710d38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>listField.type</value>
+      <webElementGuid>2e1b971d-6992-4a25-b38e-996d35a86ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>extracontroller</name>
+      <type>Main</type>
+      <value>extracontroller</value>
+      <webElementGuid>dc3a3526-d5d3-4e29-95e6-943732918a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>url</name>
+      <type>Main</type>
+      <value>getFieldValue(obj, listField.getter, listField.formatter, listField.filters, listField.link)</value>
+      <webElementGuid>38ad0d84-e2da-4861-b24c-02a6a4e8945f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>responsible for developing requirements</value>
+      <webElementGuid>e2663dd4-9b0d-4726-af78-4f2d374eea9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jobTitlesDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/tbody[1]/tr[11]/td[3]</value>
+      <webElementGuid>213f2c0d-2b7c-4a78-9da1-8e19a7d045c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//td[@name='listField.name'])[22]</value>
+      <webElementGuid>e1aadeab-03ac-4b0c-876a-0687ed7607c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jobTitlesDiv']/crud-panel/div/div/list/table/tbody/tr[11]/td[3]</value>
+      <webElementGuid>4a803b01-8599-401f-973e-2a78d16234c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Software Developer - Asia1'])[1]/following::td[1]</value>
+      <webElementGuid>f3519e75-a49e-4aeb-821a-851916a58459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_edit'])[10]/following::td[3]</value>
+      <webElementGuid>ea2f0c9c-8e3b-4884-8944-797cbee48e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ohrm_edit'])[11]/preceding::td[1]</value>
+      <webElementGuid>8a1de9d3-1c75-4f9a-8c56-bca68590a56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]/td[3]</value>
+      <webElementGuid>21f793f7-1f1e-4ad1-90f9-6142845daf0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@name = 'listField.name' and @type = 'listField.type' and (text() = 'responsible for developing requirements' or . = 'responsible for developing requirements')]</value>
+      <webElementGuid>90ffbcb4-77f1-4a21-8818-232ebb20fb83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

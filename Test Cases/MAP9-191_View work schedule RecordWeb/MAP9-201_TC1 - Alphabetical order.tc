@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: All work schedules should be displayed in Alphabetical Order on the work schedule list page</description>
+   <name>MAP9-201_TC1 - Alphabetical order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6e36476-ffff-475d-b6a9-0ffbefceb7b6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>64348e03-4c8a-47ad-a1c8-cec7f55ede0e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>64348e03-4c8a-47ad-a1c8-cec7f55ede0e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>50817b40-1279-42b7-ac6b-f976ff2d7519</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>64348e03-4c8a-47ad-a1c8-cec7f55ede0e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>551911bc-6c15-4ff1-983c-fd3038774849</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50817b40-1279-42b7-ac6b-f976ff2d7519</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>551911bc-6c15-4ff1-983c-fd3038774849</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

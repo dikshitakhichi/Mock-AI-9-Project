@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative testing on the login credentials. confirm error message</description>
+   <name>MAP9-34_TC2 - Incorrect Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28cc6d82-b5a3-4c1b-bb3e-e81d008917d1</testCaseGuid>
+</TestCaseEntity>

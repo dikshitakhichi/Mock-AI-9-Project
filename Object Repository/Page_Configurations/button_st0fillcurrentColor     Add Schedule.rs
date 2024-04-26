@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_st0fillcurrentColor     Add Schedule</name>
+   <tag></tag>
+   <elementGuidId>46eaf7b0-266a-4db0-9928-bdc7113430d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-button.oxd-button--medium.oxd-button--secondary.with-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Schedule&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d734e10-dc3d-4201-ad74-4c90560a4d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>973aa9a5-e8cb-48c9-8473-ba0700f16d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button oxd-button--medium oxd-button--secondary with-icon</value>
+      <webElementGuid>1f3f2818-68a8-419e-8e78-30e95daa6a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>flow</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>1d72f53a-2506-4546-908c-e4558d82f587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  .st0{fill:currentColor;}     Add Schedule</value>
+      <webElementGuid>7559a646-3fbc-475f-960d-224463ea7f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/div[@class=&quot;vue-container&quot;]/div[@class=&quot;work-schedule-list-container&quot;]/div[@class=&quot;tab-content&quot;]/div[1]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white oxd-list-card&quot;]/div[@class=&quot;oxd-list-content&quot;]/div[@class=&quot;oxd-list-content-header&quot;]/div[@class=&quot;oxd-list-content-header --right&quot;]/div[1]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--secondary with-icon&quot;]</value>
+      <webElementGuid>691fc36e-79cf-4b93-8dc9-08544234e9e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>7394b3d2-4dba-4d78-84dd-30df2109e7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/div/div[2]/div/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>e6a867db-2148-412c-b915-7c7812cdfb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Schedules'])[3]/following::button[1]</value>
+      <webElementGuid>410396dd-30a3-401f-8521-1ccb8615252a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Schedule Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>2730f565-7826-49f8-b870-aa57f5b6a5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7de9872b-a136-417f-a0fc-22cb3cf80387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '  .st0{fill:currentColor;}     Add Schedule' or . = '  .st0{fill:currentColor;}     Add Schedule')]</value>
+      <webElementGuid>ae548bc2-eba8-4ed9-8dce-0bf22b8c8143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

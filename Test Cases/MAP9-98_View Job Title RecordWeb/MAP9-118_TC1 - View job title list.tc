@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: 5.2.1.4_View_JT_002: Verify in Job Title List Page the job titles are displayed in a clear and organized manner, with Title Name, Description, and Specification information.</description>
+   <name>MAP9-118_TC1 - View job title list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6099b72-e9a0-4532-b97e-9d60bf4bf5c9</testCaseGuid>
+</TestCaseEntity>

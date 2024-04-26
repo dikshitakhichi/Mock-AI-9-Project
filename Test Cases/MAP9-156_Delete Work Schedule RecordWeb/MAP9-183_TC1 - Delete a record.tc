@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC1: Select a record Click on Yes ,Delete  should Delete the work schedule Successfully</description>
+   <name>MAP9-183_TC1 - Delete a record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2d48f74-cb16-4651-9b6a-53f87f87db82</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b4403ba3-168c-4db9-be35-cd1a8362a9ab</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b4403ba3-168c-4db9-be35-cd1a8362a9ab</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>f60ebe72-1009-410d-a1ae-0e2a075c10af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b4403ba3-168c-4db9-be35-cd1a8362a9ab</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>d3a2acd6-19f5-492e-9047-111f42350f41</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f60ebe72-1009-410d-a1ae-0e2a075c10af</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3a2acd6-19f5-492e-9047-111f42350f41</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

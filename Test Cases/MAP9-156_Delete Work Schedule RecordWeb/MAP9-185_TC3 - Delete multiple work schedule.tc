@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC3: Select multiple records click on Yes, Delete should delete all records successfully</description>
+   <name>MAP9-185_TC3 - Delete multiple work schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2582dfb8-996e-4989-8bda-a9dab076ec3d</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1c6d786e-4b06-429f-82a3-2812e3ac844d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1c6d786e-4b06-429f-82a3-2812e3ac844d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>6b25d56d-814c-48a9-8020-fb95ae0c35ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1c6d786e-4b06-429f-82a3-2812e3ac844d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>25e8a2f7-5f21-4635-825f-ce09bf4ed3bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b25d56d-814c-48a9-8020-fb95ae0c35ad</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25e8a2f7-5f21-4635-825f-ce09bf4ed3bc</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

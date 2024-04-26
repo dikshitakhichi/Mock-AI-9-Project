@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Employee Management</name>
+   <tag></tag>
+   <elementGuidId>fd4efb80-1f37-4178-90ad-46196a2a4a23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.topbar-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topbar']/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>ul >> internal:has-text=/^Employee Management$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>86b5558f-1fb6-4573-8809-760e8e9d28d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title</value>
+      <webElementGuid>bb8b7b02-70e7-4bc2-a9fb-d0f5084a45f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-switch-when</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>78cd0ec2-f471-42a7-99d6-ce0d6ee3c8b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee Management</value>
+      <webElementGuid>44038896-25c6-404f-b914-bb4dd6ca5bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topbar&quot;)/ul[@class=&quot;topbar-title&quot;]</value>
+      <webElementGuid>033f80e6-e9a4-492b-8e79-8e5a892065d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topbar']/ul</value>
+      <webElementGuid>5ee804d8-8981-4694-a2cc-598ee2c6a61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::ul[1]</value>
+      <webElementGuid>8eac477c-546a-4c89-92aa-4eb613688457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/following::ul[1]</value>
+      <webElementGuid>ede7e589-c681-4ca3-9616-1dfdd48116ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aaron Hamilton'])[2]/preceding::ul[1]</value>
+      <webElementGuid>d958bb18-1d60-4b92-ae7b-9b4a58739b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ohrm-navbar/div/ul</value>
+      <webElementGuid>3796b30e-56e6-4ab7-825d-8cb872216856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Employee Management' or . = 'Employee Management')]</value>
+      <webElementGuid>245cb4be-2fb9-42d4-8863-2bf65826955c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite - View Work Schedule</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8475da7b-8b47-4a34-89e6-98e1fb87f844</testSuiteGuid>
+   <testCaseLink>
+      <guid>e37ce633-1ed3-40cc-9d3f-274c214e9cce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MAP9-191_View work schedule RecordWeb/MAP9-201_TC1 - Alphabetical order</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>50817b40-1279-42b7-ac6b-f976ff2d7519</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>551911bc-6c15-4ff1-983c-fd3038774849</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c47e4e71-731b-457c-bb4b-de4b84421f48</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MAP9-191_View work schedule RecordWeb/MAP9-205 - Page navigation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1c47d07a-cf8d-45e0-9d27-e24259f46842</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8688b0f2-38b0-4890-9f1b-177e80d0be6a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

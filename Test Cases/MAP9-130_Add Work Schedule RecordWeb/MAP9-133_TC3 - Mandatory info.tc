@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC3: 5.2.5.1_Add_WS_004 - Verify when user adds work schedule and clicks on save without entering mandatory data should display error message</description>
+   <name>MAP9-133_TC3 - Mandatory info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a747fed3-c873-40af-8ed1-62a4298197ce</testCaseGuid>
+</TestCaseEntity>

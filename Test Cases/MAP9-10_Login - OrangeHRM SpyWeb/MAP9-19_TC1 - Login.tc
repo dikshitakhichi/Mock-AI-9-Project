@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to OrangeHRM using Spy Web</description>
+   <name>MAP9-19_TC1 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8f9782b-6b0a-4679-8ee9-0148773911d1</testCaseGuid>
+</TestCaseEntity>
